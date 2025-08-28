@@ -6,3 +6,5 @@ This is a learning repository.
 - main
 - release/1.0
 - feature/playwright-learning
+- feature/js-learning
+- feature/git-learning

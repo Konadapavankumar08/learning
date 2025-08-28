@@ -6,3 +6,4 @@ This is a learning repository.
 - main
 - release/1.0
 - feature/js-learning
+- feature/git-learning
